@@ -7,12 +7,6 @@ This is a classic Snake Game implemented using HTML, CSS, and JavaScript.
 
 
 
-## Table of Contents
-
-- [Features](#Features)
-- [Installation](#Installation)
-- [Usage](#Usage)
-
 ## Features
 
 - Classic Snake Game with simple controls.
